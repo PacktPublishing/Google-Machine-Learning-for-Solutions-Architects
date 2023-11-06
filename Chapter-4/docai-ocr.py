@@ -5,7 +5,7 @@ from google.api_core.client_options import ClientOptions
 # project_id = 'YOUR_PROJECT_ID'
 # location = 'YOUR_PROCESSOR_LOCATION' # 'us' or 'eu'
 # processor_id = 'YOUR_PROCESSOR_ID' 
-# file_path = '/path/to/file' # Example: './image.png'
+# file_path = '/path/to/file' # Example: './poem.png'
 # mime_type = 'image/png' 
 
 def process_ocr(
