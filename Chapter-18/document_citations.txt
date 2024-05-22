@@ -1,2 +1,0 @@
-The citation for the document in the data subdirectory is as follows:
-Hila Zelicha, Jieping Yang, Susanne M Henning, Jianjun Huang, Ru-Po Lee, Gail Thames, Edward H Livingston, David Heber, and Zhaoping Li, 2024. Effect of cinnamon spice on continuously monitored glycemic response in adults with prediabetes: a 4-week randomized controlled crossover trial. DOI:https://doi.org/10.1016/j.ajcnut.2024.01.008
