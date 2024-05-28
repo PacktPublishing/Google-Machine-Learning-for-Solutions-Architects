@@ -11,3 +11,7 @@ gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT --member=serviceAcc
 
 # Grant the "Service Account Token Creator" IAM role to the Pub/Sub service agent for your project:
 gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT --member=serviceAccount:service-$PROJECT_NUMBER@gcp-sa-pubsub.iam.gserviceaccount.com --role=roles/iam.serviceAccountTokenCreator
+
+# Grant the "Pub/Sub Publisher" IAM role to the GCS service agent for your project:
+export GCS_SA=`gsutil kms serviceaccount -p $GOOGLE_CLOUD_PROJECT`
+gcloud projects add-iam-policy-binding $GOOGLE_CLOUD_PROJECT --member="serviceAccount:${GCS_SA}" --role='roles/pubsub.publisher'
