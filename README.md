@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
+
 # Google Machine Learning and Generative AI for Solutions Architects
 
 <a href="https://www.packtpub.com/en-in/product/google-machine-learning-and-generative-ai-for-solutions-architects-9781803245270"><img src="https://m.media-amazon.com/images/I/81Xj95chYRL._SL1500_.jpg" alt="Google Machine Learning and Generative AI for Solutions Architects" height="256px" align="right"></a>
